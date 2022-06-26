@@ -1,4 +1,17 @@
+body,
+html {
+    width: auto;
+    height: auto;
+}
 .App {
+  height: auto;
   text-align: center;
   display: flex;
+  background: #c2d2d6;
+  padding: 1rem;
+  font-size: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
